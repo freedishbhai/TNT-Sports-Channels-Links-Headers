@@ -3,7 +3,7 @@
 <h1 align='center'>✯ TNT SPORTS NETWORKS</h1>
 
 
-<h4 align='center'>📺 Watching Free TNT Sports Networks Channels Free on Mobile📱
+<h4 align='center'>📺 Watching Free TNT Sports Networks Channels Free on Mobile 
 
 <h2>😇 Features :</h2>
 
