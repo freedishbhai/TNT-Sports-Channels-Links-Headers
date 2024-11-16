@@ -23,7 +23,7 @@
 
 *  <strong><i>•Watch</i></strong>
 <br>
-<img src="https://raw.g"  
+<img src="https://raw.githubusercontent.com/freedishbhai/TNT-Sports-Channels-Links-Headers/refs/heads/main/images/screen.png"  
 
 <br>
 
@@ -33,8 +33,5 @@
 <h2>🚸 Warnings :</h2>
 
 - This is Just For Educational & Entertainment Purpose
-<a href="https://t.me/FreeDishBhai">@FreeDishBhai</a>
-<br>
- 
-
+<a  
  
