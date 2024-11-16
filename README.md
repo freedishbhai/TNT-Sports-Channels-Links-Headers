@@ -21,7 +21,7 @@
   
 *  Enjoy 😊
 
-*  <strong><i></i></strong>
+ <strong><i></i></strong>
 <br>
 <img src="https://raw.githubusercontent.com/freedishbhai/TNT-Sports-Channels-Links-Headers/refs/heads/main/images/screen.png"  
 
