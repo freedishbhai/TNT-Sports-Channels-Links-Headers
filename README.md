@@ -20,6 +20,21 @@
 * Add This PlayList [Playlist Link](https://raw.githubusercontent.com/byte-capsule/TSports-m3u8-Grabber/main/NS_Player_Tsports_live.m3u)
   
 *  Enjoy 😊
+
+*  <strong><i>•Watch</i></strong>
+<br>
+<img src="https://raw.g"  
+
+<br>
+
+<br>
+ 
+
+<h2>🚸 Warnings :</h2>
+
+- This is Just For Educational & Entertainment Purpose
+<a href="https://t.me/FreeDishBhai">@FreeDishBhai</a>
+<br>
  
 
  
