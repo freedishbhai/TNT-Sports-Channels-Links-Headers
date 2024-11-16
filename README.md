@@ -1,6 +1,7 @@
 <h1 align="center">
   <br>
-  <a href=""><img src="[[[[https://raw.githubusercontent.com/freedishbhai/TNT-Sports-Channels-Links-Headers/refs/heads/main/images/logo.png](https://raw.githubusercontent.com/freedishbhai/TNT-Sports-Channels-Links-Headers/refs/heads/main/images/logo.png)]([https://raw.githubusercontent.com/freedishbhai/TNT-Sports-Channels-Links-Headers/refs/heads/main/images/logo.png](https://raw.gitgithubusercontenthubusercontent.com/freedishbhai/TNT-Sports-Channels-Links-Headers/refs/heads/main/images/logo.png))]([[[[https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TNT_Sports_%282023%29.svg/1024px-TNT_Sports_%282023%29.svg.png](https://raw.githubusercontent.com/freedishbhai/TNT-Sports-Channels-Links-Headers/refs/heads/main/images/logo.png)](https://raw.githubusercontent.com/freedishbhai/TNT-Sports-Channels-Links-Headers/refs/heads/main/images/logo.png)](https://raw.githubusercontent.com/freedishbhai/TNT-Sports-Channels-Links-Headers/refs/heads/main/images/logo.png)](https://raw.githubusercontent.com/freedishbhai/TNT-Sports-Channels-Links-Headers/refs/heads/main/images/logo.png))](https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TNT_Sports_%282023%29.svg/1024px-TNT_Sports_%282023%29.svg.png)" alt="🔥 TNT SPORTS 🔥" width="200"></a>
+  <a href=""><img src="[[[[https://raw.githubusercontent.com/freedishbhai/TNT-Sports-Channels-Links-Headers/refs/heads/main/images/logo.png] 
+  
   <br>
   🔥 TNT SPORTS 🔥
   <br>
