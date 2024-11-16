@@ -17,11 +17,11 @@
 # 🎬How To Play
 **📱Android**
 * Use NS (Network Stream Player) [Download](https://play.google.com/store/apps/details?id=com.genuine.leone)
-* Add This PlayList [Playlist Link](https://raw.githubusercontent.com/byte-capsule/TSports-m3u8-Grabber/main/NS_Player_Tsports_live.m3u)
+* Add This PlayList [Playlist Link](https://raw.githubusercontent.com/freedishbhai/TNT-Sports-Channels-Links-Headers/refs/heads/main/btsports_NS_Player.m3u)
   
 *  Enjoy 😊
 
-*  <strong><i>•Watch</i></strong>
+*  <strong><i></i></strong>
 <br>
 <img src="https://raw.githubusercontent.com/freedishbhai/TNT-Sports-Channels-Links-Headers/refs/heads/main/images/screen.png"  
 
@@ -32,6 +32,5 @@
 
 <h2>🚸 Warnings :</h2>
 
-- This is Just For Educational & Entertainment Purpose
-<a  
+- This is Just For Educational & Entertainment Purpose 
  
